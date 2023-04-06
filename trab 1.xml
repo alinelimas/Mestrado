@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autores>
+   <autor>
+      <nome>John Doe</nome>
+      <email>johndoe@example.com</email>
+   </autor>
+   <autor>
+      <nome>Jane Doe</nome>
+      <email>janedoe@example.com</email>
+   </autor>
+</autores>
